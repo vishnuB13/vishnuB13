@@ -1,15 +1,10 @@
- ##                                                            Hi there 👋 I'm Vishnu
-<!--
-**vishnuB13/vishnuB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ #                                                            Hi there 👋 I'm Vishnu
+   ## A passionate MERN Stack Developer 🖥️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
+- 👨‍🎓 I’m currently learning DSA.
 - 👯 I’m looking to collaborate on MERN Stack Projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about JavaScript
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🥇 Ask me about JavaScript, React
+- 📵 How to reach me: vishnub4231@gmail.com || https://www.linkedin.com/in/vishnu-b-459493245/
+- 🙇‍♂ Pronouns: He/Him
+
