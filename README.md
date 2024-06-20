@@ -1,4 +1,4 @@
-             #                                                            Hi there 👋 I'm Vishnu
+   # Hi there 👋 I'm Vishnu
  
    ## A passionate MERN Stack Developer 🖥️
 ![git mern 1](https://github.com/vishnuB13/vishnuB13/assets/134381812/b64df244-b919-4de2-87a0-3fff44e36957)
