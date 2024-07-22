@@ -1,10 +1,9 @@
    <h1 align="center">HEI, I'M VISHNU</h1>
  
    <h3 align="center">A PASSIONATE MERN STACK DEVELOPER 🖥️</h3>
-   
-  ![git mern 1](https://github.com/vishnuB13/vishnuB13/assets/134381812/b64df244-b919-4de2-87a0-3fff44e36957) 
-  
-
+     
+ <p align="center"><img src="https://github.com/vishnuB13/vishnuB13/assets/134381812/b64df244-b919-4de2-87a0-3fff44e36957" alt="c" /></p>
+ 
 - 👨‍🎓 I’m currently learning DSA.
 
   
