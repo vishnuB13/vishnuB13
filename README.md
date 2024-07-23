@@ -13,7 +13,7 @@
 - 🥇 Ask me about JavaScript, React
 
   
-- 📵 How to reach me: vishnub4231@gmail.com || https://www.linkedin.com/in/vishnu-b-459493245/
+- 📵 How to reach me: vishnub4231@gmail.com || https://www.linkedin.com/in/vishnub13/
 
   
 - 🙇‍♂ Languages, Libraries, Frameworks and Tools :
