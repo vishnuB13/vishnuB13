@@ -35,5 +35,8 @@
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="45" height="45"/>
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="50" height="50"/>
+   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Mongoose" alt="Mongoose" width="50" height="50"/>
+
+
 
 </div>
