@@ -28,7 +28,12 @@
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/> 
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="45" height="45"/>  
-   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VScode" alt="VScode" width="45" height="45"/>
+   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="45" height="45"/>
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/> 
    <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="50" height="50"/>
+   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
+   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="45" height="45"/>
+   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="45" height="45"/>
+   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="45" height="45"/>
+
 </div>
